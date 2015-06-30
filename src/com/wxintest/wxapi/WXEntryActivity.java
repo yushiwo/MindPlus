@@ -15,7 +15,7 @@ import com.tencent.mm.sdk.openapi.SendAuth;
 import com.tencent.mm.sdk.openapi.SendMessageToWX;
 
 /**
- * @author personal WXEntryActivity基本是用与微信毁掉结束而不是开始
+ * @author personal WXEntryActivity基本是用与微信毁掉结束而不是开始    
  */
 public class WXEntryActivity extends Activity implements IWXAPIEventHandler {
 
